@@ -1,0 +1,14 @@
+{
+  "name": "yields-is-floating",
+  "description": "check if an element is floating.",
+  "version": "0.0.1",
+  "keywords": [
+    "float",
+    "floating",
+    "is-float",
+    "is-floating"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
